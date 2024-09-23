@@ -13,7 +13,7 @@ body {
 }
 
 button {
-    background-color: orange;
+    background-color: rgb(255, 255, 255);
     color: black;
     font-family: "Bai Jamjuree", sans-serif;
     cursor: pointer;
